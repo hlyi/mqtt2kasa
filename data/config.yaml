@@ -7,7 +7,7 @@ knobs:
     # log_level_debug: false
 mqtt:
     # ip/dns for the mqtt broker
-    host: 192.168.1.250
+    host: mosquitto
     # uncomment to publish with retain
     # retain: true
     # specify qos value (default is 0)
